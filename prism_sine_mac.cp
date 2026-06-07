@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2026 Jordan Morris
 #include <cmath>
 #include <cstdint>
 #include <vector>
